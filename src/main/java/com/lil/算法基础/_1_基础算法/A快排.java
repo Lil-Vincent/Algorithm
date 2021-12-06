@@ -5,6 +5,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
+/**
+ * Lil
+ * 📅
+ */
 
 public class A快排 {
     public static int N = 1000010;
