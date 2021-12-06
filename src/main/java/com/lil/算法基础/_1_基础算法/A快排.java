@@ -11,12 +11,9 @@ import java.util.Scanner;
  */
 
 public class A快排 {
-    public static int N = 1000010;
-    public static int[] q;
-
-    static void quick_sort(int[] q, int l, int r) {
+    static void quick_sort (int[] q, int l, int r) {
         if (l >= r) return;
-        int x = q[l], i = l - 1, j = r + 1;
+        int x = q[l + r >> 1], i = l - 1, j = r + 1;
         while (i < j) {
             do i ++; while (q[i] < x);
             do j --; while (q[j] > x);
@@ -33,14 +30,16 @@ public class A快排 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
-        int[] arr = new int[n];
+        int[] q = new int[n];
         for (int i = 0; i < n; i++) {
-            arr[i] = in.nextInt();
+            q[i] = in.nextInt();
         }
-        quick_sort(arr, 0, arr.length - 1);
+
+        quick_sort(q, 0, n - 1);
+
+        System.out.println("1");
         for (int i = 0; i < n; i++) {
-            System.out.print(arr[i] + " ");
+            System.out.print(q[i] + " ");
         }
     }
-
 }
