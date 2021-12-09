@@ -2,6 +2,10 @@ package com.lil.算法基础._1_基础算法;
 
 import java.util.Scanner;
 //nlogn
+/**
+ * @author Lil
+ * @date 2021/12/07 22:33
+ **/
 public class a第k个数做法1 {
 
     static void quick_sort(int[] q, int l, int r) {
