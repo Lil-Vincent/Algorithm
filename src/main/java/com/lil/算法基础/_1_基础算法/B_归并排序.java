@@ -7,35 +7,35 @@ import java.util.Scanner;
  */
 public class B_归并排序 {
     public static void main(String[] args) {
-        Scanner in =  new Scanner(System.in);
+        Scanner in = new Scanner(System.in);
         int n = in.nextInt();
-        int[] q = new int[n];
+        int q[] = new int[n];
         for (int i = 0; i < n; i++) {
             q[i] = in.nextInt();
         }
-        mergeSort(q, 0, n - 1);
-        for (int i = 0; i < n; i++)
+        merge_sort(q, 0, n - 1);
+        for (int i = 0; i < n; i++) {
             System.out.print(q[i] + " ");
+        }
     }
-
-    private static void mergeSort(int[] q, int l, int r) {
-
+    static void merge_sort(int q[], int l, int r) {
         if (l >= r) return;
         int mid = l + r >> 1, i = l, j = mid + 1;
-        mergeSort(q, i, mid);
-        mergeSort(q, j, r);
+        merge_sort(q, l, mid);
+        merge_sort(q, j, r);
 
-        int[] temp = new int[r - l + 1];
+        int temp[]  = new int[r - l + 1];
         int k = 0;
         while (i <= mid && j <= r) {
-            if (q[i] < q[j]) temp[k ++] = q[i ++];
+            if (q[i] <= q[j]) temp[k ++] = q[i ++];
             else temp[k ++] = q[j ++];
         }
         while (i <= mid) temp[k ++] = q[i ++];
-        while (k <= r) temp[k ++] = q[j ++];
+        while (j <= r) temp[k ++] = q[i ++];
 
-        for (i = l, j = 0; i <= r; i++, j++) q[i] = temp[j];
+        for (i = l, j = 0; i <= r; i ++, j ++) q[i] = temp[j];
     }
+
 
 
 }
