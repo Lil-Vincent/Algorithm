@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.lang.reflect.Member;
 import java.util.Scanner;
-
 /**
  * Lil
  * 📅
@@ -32,15 +31,13 @@ public class A快排 {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         int[] q = new int[n];
-        for (int i = 0; i < n; i++) {
-            q[i] = in.nextInt();
-        }
+        for (int i = 0; i < n; i++) q[i] = in.nextInt();
+
 
         quick_sort(q, 0, n - 1);
 
         System.out.println("1");
-        for (int i = 0; i < n; i++) {
-            System.out.print(q[i] + " ");
-        }
+        for (int i = 0; i < n; i++) System.out.print(q[i] + " ");
+
     }
 }
