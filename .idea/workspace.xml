@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be8f3eae-bd1a-4d65-aebb-2317c4d752b7" name="变更" comment="">
+    <list default="true" id="be8f3eae-bd1a-4d65-aebb-2317c4d752b7" name="变更" comment="增加了二分查找">
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/算法基础/_1_基础算法/A快排.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/算法基础/_1_基础算法/A快排.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/算法基础/_1_基础算法/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +32,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
   </component>
   <component name="ProjectId" id="21ri0iuExTnBmQjPM0EbdMHKNCf" />
   <component name="ProjectLevelVcsManager">
@@ -155,7 +157,8 @@
       <workItem from="1640103268831" duration="1555000" />
       <workItem from="1640224771929" duration="2225000" />
       <workItem from="1640256996649" duration="7939000" />
-      <workItem from="1645797808270" duration="5687000" />
+      <workItem from="1645797808270" duration="29087000" />
+      <workItem from="1645893203584" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="快排序">
       <created>1638725719633</created>
@@ -220,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639848847609</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="增加了二分查找">
+      <created>1645811034979</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1645811034979</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
