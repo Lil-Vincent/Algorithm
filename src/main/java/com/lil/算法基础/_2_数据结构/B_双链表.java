@@ -18,6 +18,18 @@ public class B_双链表 {
 
 
     void add (int x, int k) {
-
+        e[idx] = x;
+        r[idx] = r[k];
+        l[idx] = k;
+        l[r[k]] = idx;
+        r[k] = idx;
+        idx ++;
     }
+
+    void remove (int k) {
+        r[l[k]] = r[k];
+        l[r[k]] = l[k];
+    }
+
+
 }
