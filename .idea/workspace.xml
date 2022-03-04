@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be8f3eae-bd1a-4d65-aebb-2317c4d752b7" name="变更" comment="增加了二分查找">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/leetcode/LeetCode_1_两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/leetcode/LeetCode_1_两数之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/算法基础/_2_数据结构/A_单链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/算法基础/_2_数据结构/A_单链表.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDK" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4413793" />
@@ -159,6 +159,7 @@
       <workItem from="1640256996649" duration="7939000" />
       <workItem from="1645797808270" duration="29087000" />
       <workItem from="1645893203584" duration="605000" />
+      <workItem from="1646306974070" duration="6921000" />
     </task>
     <task id="LOCAL-00001" summary="快排序">
       <created>1638725719633</created>
