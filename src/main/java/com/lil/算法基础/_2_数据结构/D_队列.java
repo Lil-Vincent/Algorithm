@@ -18,7 +18,7 @@ public class D_队列 {
 
     //对头弹出一个数
     void pop() {
-        hh --;
+        hh ++;
     }
 
     // 查询对头元素
