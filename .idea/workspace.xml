@@ -6,130 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="be8f3eae-bd1a-4d65-aebb-2317c4d752b7" name="变更" comment="增加了二分查找">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/PAT/A加B和C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/PAT/A加B和C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/PAT/写出这个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/PAT/写出这个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/PAT/害死人不偿命的三n加一猜想.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/PAT/害死人不偿命的三n加一猜想.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/PAT/我要通过.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/PAT/我要通过.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/PAT/换个格式输出整数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/PAT/换个格式输出整数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/PAT/部分A加B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/PAT/部分A加B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/LargestAnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/LargestAnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week1/LeCode_92_反转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week1/LeCode_92_反转链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week1/LeetCode_150_逆波兰表达式求值.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week1/LeetCode_150_逆波兰表达式求值.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week1/LeetCode_1603_设计停车系统_每日一题春季.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week1/LeetCode_1603_设计停车系统_每日一题春季.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week1/LeetCode_73_矩阵置零.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week1/LeetCode_73_矩阵置零.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week1/反转链表2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week1/反转链表2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week1/小明上学.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week1/小明上学.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week1/旋转.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week1/旋转.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week2/AcWing_1497_树的遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week2/AcWing_1497_树的遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week2/AcWing_1497_树的遍历树的遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week2/AcWing_1497_树的遍历树的遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week2/AcWing_33_链表中倒数第k个节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week2/AcWing_33_链表中倒数第k个节点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week2/AcWing_36_合并两个排序的链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week2/AcWing_36_合并两个排序的链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week2/AcWing_85_不用加减乘除做加法.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week2/AcWing_85_不用加减乘除做加法.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week2/AcWing_85_不用加减乘除做加法ii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week2/AcWing_85_不用加减乘除做加法ii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week2/LeCode_191_位1的个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week2/LeCode_191_位1的个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week2/LeetCode_61_旋转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week2/LeetCode_61_旋转链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week2/LeetCode_82_删除排序链表中的重复元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week2/LeetCode_82_删除排序链表中的重复元素.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week2/平分物品.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week2/平分物品.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/week3/唯一最小数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/week3/唯一最小数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/dailypractice/最大的和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/dailypractice/最大的和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/demo/String类型.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/demo/String类型.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/JC排列数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/JC排列数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week1/归并排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week1/归并排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week1/归并排序test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week1/归并排序test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week1/快排.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week1/快排.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week1/快排2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week1/快排2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week1/第k个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week1/第k个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week1/第k个数2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week1/第k个数2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week2/PrefixAnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week2/PrefixAnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week2/TargetTheArrayElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week2/TargetTheArrayElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week2/n的二进制表示中第k位是几.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week2/n的二进制表示中第k位是几.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week2/二进制中1的个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week2/二进制中1的个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week2/判断子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week2/判断子序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week2/前缀和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week2/前缀和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week2/区间和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week2/区间和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week2/子矩阵的和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week2/子矩阵的和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week2/差分.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week2/差分.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week2/差分矩阵.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week2/差分矩阵.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week2/数的范围.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week2/数的范围.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week2/数的范围2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week2/数的范围2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week2/最长连续不重复子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week2/最长连续不重复子序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week2/逆序队的数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week2/逆序队的数量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week3/单调栈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week3/单调栈.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week3/单链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week3/单链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week3/双链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week3/双链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week3/双链表002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week3/双链表002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week3/模拟栈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week3/模拟栈.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week3/模拟队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week3/模拟队列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week4/KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week4/KMP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week4/KMPTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week4/KMPTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week4/trie树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week4/trie树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week4/合并集合.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week4/合并集合.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week4/堆排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week4/堆排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week4/堆排序test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week4/堆排序test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week4/模拟堆.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week4/模拟堆.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week4/连通块中点的数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week4/连通块中点的数量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week5/排列数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week5/排列数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week6/万万没想到之聪明的编辑.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week6/万万没想到之聪明的编辑.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week6/找迷宫1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week6/找迷宫1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week6/排列数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week6/排列数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week6/模拟散列表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week6/模拟散列表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week6/模拟散列表开放寻址法.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week6/模拟散列表开放寻址法.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/fondation/week6/走迷宫.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/fondation/week6/走迷宫.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/mianshi/ArrayList和LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/mianshi/ArrayList和LinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/mianshi/JUC/线程.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/mianshi/JUC/线程.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/mianshi/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/mianshi/Job.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/mianshi/Ren.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/mianshi/Ren.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/mianshi/final关键字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/mianshi/final关键字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/mianshi/jichu/Strudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/mianshi/jichu/Strudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/mianshi/jichu/作用域.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/mianshi/jichu/作用域.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/mianshi/jichu/内部类.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/mianshi/jichu/内部类.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/mianshi/jichu/接口的静态字段.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/mianshi/jichu/接口的静态字段.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/mianshi/jichu/静态字段和静态方法.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/mianshi/jichu/静态字段和静态方法.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/mianshi/jichu2/作用域2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/mianshi/jichu2/作用域2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/mianshi/抽象类和接口的却别.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/mianshi/抽象类和接口的却别.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/mianshi/接口.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/mianshi/接口.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/ClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/ClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ12数值的整数次方.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ12数值的整数次方.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ13调整数组顺序使奇数位于偶数前面.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ13调整数组顺序使奇数位于偶数前面.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ14链表中倒数最后k个结点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ14链表中倒数最后k个结点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ16合并两个排序的链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ16合并两个排序的链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ17树的子结构.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ17树的子结构.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ18二叉树的镜像.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ18二叉树的镜像.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ19顺时针打印矩阵.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ19顺时针打印矩阵.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ1Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ1Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ20包含min函数的栈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ20包含min函数的栈.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ24二叉树中和为某一值的路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ24二叉树中和为某一值的路径.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ2ReplaceSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ2ReplaceSpaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ3PrintListFromTailToHead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ3PrintListFromTailToHead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ4重建二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ4重建二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ4重建二叉树1111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ4重建二叉树1111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ55链表中环的入口结点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ55链表中环的入口结点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ57二叉树的下一个结点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ57二叉树的下一个结点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ58对称的二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ58对称的二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ5StackImplementationQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ5StackImplementationQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ65Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ65Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ65矩阵中的路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ65矩阵中的路径.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/JZ7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/JZ7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/从尾到头打印链表JZ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/从尾到头打印链表JZ3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/写出这个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/写出这个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/数组中重复的数字JZ50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/数组中重复的数字JZ50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/斐波那契数列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/斐波那契数列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/最小k个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/最小k个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/offer/用两个栈实现队列JZ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/offer/用两个栈实现队列JZ5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/review/A用两个栈实现队列JZ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/review/A用两个栈实现队列JZ5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/review/test111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/review/test111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/review/从尾到头打印链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/review/从尾到头打印链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/review/反转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/review/反转链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/review/唯一最小数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/review/唯一最小数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/review/快排.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/review/快排.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/review/排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/review/排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/review/替换空格.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/review/替换空格.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/review/最小k个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/review/最小k个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/review/第k个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/review/第k个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/笔试面试/_1_蛇形矩阵.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/笔试面试/_1_蛇形矩阵.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/笔试面试/_2_单链表快速排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/笔试面试/_2_单链表快速排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/notCommonlyUs/笔试面试/_2_单链表快速排序2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/杂/笔试面试/_2_单链表快速排序2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/算法基础/_2_数据结构/D_队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/算法基础/_2_数据结构/D_队列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lil/算法基础/_2_数据结构/E_单调栈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lil/算法基础/_2_数据结构/E_单调栈.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +95,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4413793" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="debugger.stepping" />
+    <property name="settings.editor.selected.configurable" value="zielu.gittoolbox.app.config.v2" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -323,7 +201,7 @@
       <workItem from="1645797808270" duration="29087000" />
       <workItem from="1645893203584" duration="605000" />
       <workItem from="1646306974070" duration="8350000" />
-      <workItem from="1646404823545" duration="11837000" />
+      <workItem from="1646404823545" duration="14953000" />
     </task>
     <task id="LOCAL-00001" summary="快排序">
       <created>1638725719633</created>
