@@ -1,20 +1,14 @@
-# ListNode爆红
-Cannot resolve symbol 'ListNode'
-添加
-```java
-    public class ListNode{
-        int val;
-        ListNode next;
+# 算法笔记
 
-        public ListNode(int x){
-            val=x;
-        }
-    }
-```
-
-# BufferedReader 读取输入文本
-"new"关键字表示您要建构一个对象为您所用，BufferedReader buf表示声明一个类型为BufferedReader的对象变量，而new BufferedReader()表示以BufferedReader类建构一个对象，newInputStreamReader(System.in)表示接受一个System.in对象来建构一个InputStreamReader对象。
-
-```java
-BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-```
+## 1. 链表
+> 链表用数组来表示，
+- 单链表
+  数组模拟单链表，如何模拟。e代表的是这个数的值，ne代表的是这个数的下一个数的位置
+  重点理解：
+  
+  3 -> 5 -> 4 -> 2 -> 1
+  e[0] = 3, e[1] = 5, e[2] = 4
+  ne[0] = 1, ne[1] = 2, ne[3] = 4
+  idx只是记录下使用的节点，相当于临时拿过来用的一个数。因为链表不是连续的，只需要指向对就可以了.
+- 双联表
+    
