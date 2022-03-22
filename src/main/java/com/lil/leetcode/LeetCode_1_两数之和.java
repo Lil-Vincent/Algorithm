@@ -14,6 +14,7 @@ public class LeetCode_1_两数之和 {
         int target = 11;
         int[] ints = twoSum(q, target);
     }
+
     public static int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
@@ -24,4 +25,5 @@ public class LeetCode_1_两数之和 {
         }
         return new int[]{};
     }
+
 }
