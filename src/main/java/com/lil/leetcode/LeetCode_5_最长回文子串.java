@@ -27,7 +27,7 @@ public class LeetCode_5_最长回文子串 {
                 l--;
                 r++;
             }
-            if (res.length() < r - l - 1) res = s.substring(l + 1, r - l - 1);
+            if (res.length() < r - l - 1) res = s.substring(l + 1, r - l - 1);//打印的是从下标 l + 1 开始到下标 r - l - 1的字符串
         }
         return res;
     }
