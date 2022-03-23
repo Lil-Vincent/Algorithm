@@ -10,25 +10,27 @@ package com.lil.leetcode;
  **/
 public class LeetCode_5_最长回文子串 {
     public static String longestPalindrome(String s) {
-        int n = s.length();
-        String res = "";
+        char[] str = s.toCharArray();
+        int n = str.length;
 
+        String res = "";
         for (int i = 0; i < n; i++) {
             int l = i - 1, r = i + 1;
-            while (l >= 0 && r < n && s.charAt(l) == s.charAt(r)) {//没有越界， 两个对称的字符串相等
+            while (l >= 0 && r < str.length && str[l] == str[r]) {
                 l--;
                 r++;
             }
-            if (res.length() < r - l - 1) res = s.substring(l + 1, r - l - 1);
+            if (res.length() < r - l - 1) res = s.substring(l + 1, r);//注意函数左闭右开
 
             l = i;
             r = i + 1;
-            while (l >= 0 && r < n && s.charAt(l) == s.charAt(r)) {
+            while (l >= 0 && r < str.length && str[l] == str[r]) {
                 l--;
                 r++;
             }
-            if (res.length() < r - l - 1) res = s.substring(l + 1, r - l - 1);//打印的是从下标 l + 1 开始到下标 r - l - 1的字符串
+            if (res.length() < r - l - 1) res = s.substring(l + 1, r);
         }
+
         return res;
     }
 
