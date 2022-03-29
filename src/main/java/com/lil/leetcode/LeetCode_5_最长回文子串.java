@@ -15,7 +15,9 @@ public class LeetCode_5_最长回文子串 {
 
         String res = "";
         for (int i = 0; i < n; i++) {
-            int l = i - 1, r = i + 1;
+
+            int l = i - 1;
+            int r = i + 1;
             while (l >= 0 && r < str.length && str[l] == str[r]) {
                 l--;
                 r++;
