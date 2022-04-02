@@ -1,4 +1,4 @@
-package com.lil.leetcode;
+package com.lil.leetcode.week1;
 
 import jdk.jfr.internal.tool.Main;
 
