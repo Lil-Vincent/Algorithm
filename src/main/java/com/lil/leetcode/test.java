@@ -6,9 +6,18 @@ package com.lil.leetcode;
  **/
 public class test {
     public static void main(String[] args) {
-        int a = 15;
-        int b = a / 10;
-        int c = a % 10;
+//        int a = 15;
+//        int b = a / 10;
+//        int c = a % 10;
+        test(5);
+    }
+
+    static void test(int x) {
+        if (x != 1) {
+            System.out.println(x);
+            test(x - 1);
+            System.out.println(x);
+        }
     }
 
 
