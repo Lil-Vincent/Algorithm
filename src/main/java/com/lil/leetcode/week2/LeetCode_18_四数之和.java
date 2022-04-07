@@ -22,8 +22,8 @@ public class LeetCode_18_四数之和 {
                     int sum = nums[i] + nums[j] + nums[l] + nums[r];
                     if (sum == target) {
                         res.add(Arrays.asList(nums[i], nums[j], nums[l], nums[r]));
-                        while (l != j + 1 && nums[l] == nums[l - 1]) l++;
-                        while (r != n - 1 && nums[r] == nums[r - 1]) r++;
+                        while (l + 1 < r && nums[l] == nums[l + 1]) l++;
+                        while (r - 1 > l && nums[r] == nums[r - 1]) r--;
                         r--;
                         l++;
                     } else if (sum > target) {
