@@ -6,10 +6,9 @@ package com.lil.leetcode;
  **/
 public class test {
     public static void main(String[] args) {
-//        int a = 15;
-//        int b = a / 10;
-//        int c = a % 10;
-        test(5);
+        String[] str = {"1234", "abc", "cde"};
+        int length = str.length;
+        int length1 = str[0].length();
     }
 
     static void test(int x) {
