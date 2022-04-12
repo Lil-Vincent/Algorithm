@@ -137,3 +137,5 @@ public class LeetCode_5_最长回文子串 {
 ```
 
 ---
+
+[LeetCode_31_下一个排列](https://www.acwing.com/solution/content/110616/)
