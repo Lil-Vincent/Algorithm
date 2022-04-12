@@ -18,7 +18,6 @@ public class LeetCode_34_在排序数组中查找元素的第一个和最后一�
         if (target != nums[l]) return res;
         else {
             res[0] = l;
-
             l = 0;
             r = n;
             while (l < r) {
@@ -26,7 +25,6 @@ public class LeetCode_34_在排序数组中查找元素的第一个和最后一�
                 if (nums[mid] <= target) l = mid;
                 else r = mid - 1;
             }
-
             res[1] = l;
         }
         return res;

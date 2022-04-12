@@ -13,27 +13,20 @@ public class LeetCode_33_搜索旋转排序数组 {
         int l = 0, r = n;
         while (l < r) {
             int mid = l + r + 1 >> 1;
-            if (nums[mid] >= nums[0]) {
-                l = mid;
-            } else {
-                r = mid - 1;
-            }
+            if (nums[mid] >= nums[0]) l = mid;
+            else r = mid - 1;
         }
 
-        if (target >= nums[0]) {
-            l = 0;
-        } else {
+        if (target >= nums[0]) l = 0;
+        else {
             l = r + 1;
             r = n;
         }
 
         while (l < r) {
             int mid = l + r >> 1;
-            if (nums[mid] >= target) {
-                r = mid;
-            } else {
-                l = mid + 1;
-            }
+            if (nums[mid] >= target) r = mid;
+            else l = mid + 1;
         }
 
         if (nums[l] == target) return nums[l];
