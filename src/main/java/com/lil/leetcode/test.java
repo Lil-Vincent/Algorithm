@@ -6,10 +6,8 @@ package com.lil.leetcode;
  **/
 public class test {
     public static void main(String[] args) {
-
-        for (long i = 6; i <= 18; i = i + i) {
-            System.out.println(i);
-        }
+        char a = '7';
+        int i = a - '1';
     }
 
 }
