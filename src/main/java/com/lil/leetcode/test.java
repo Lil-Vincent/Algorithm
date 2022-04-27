@@ -6,8 +6,8 @@ package com.lil.leetcode;
  **/
 public class test {
     public static void main(String[] args) {
-        char a = '7';
-        int i = a - '1';
+        System.out.println(5 - 2 + "");
+        System.out.println((5 - 2) + "");
     }
 
 }

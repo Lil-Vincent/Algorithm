@@ -11,7 +11,7 @@ import java.util.List;
 // 关键点，
 // 1、左括号点数量不大于n，
 // 2、右括号点数量不大于n且不大于左括号点数量
-public class LeetCode_22_括号生成 {
+public class LeetCode_22_括号生成_DFS {
     List<String> res = new ArrayList<>();
 
     public List<String> generateParenthesis(int n) {

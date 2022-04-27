@@ -7,7 +7,7 @@ import java.util.List;
  * @author Lil
  * @date 2022/04/05 14:26
  **/
-public class LeetCode_17_电话号码的字母组合 {
+public class LeetCode_17_电话号码的字母组合_DFS {
     static String[] strs = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
     static List<String> ans = new ArrayList<>();
 
