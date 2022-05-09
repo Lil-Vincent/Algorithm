@@ -13,21 +13,24 @@ public class LeetCode_46_全排列 {
 
     public static List<List<Integer>> permute(int[] nums) {
         boolean st[] = new boolean[nums.length];
-        dfs(nums, 0, st);
+        dfs(0, st, nums);
         System.out.println(res);
         return res;
     }
 
-    public static void dfs(int[] nums, int u, boolean[] st) {
-        int n = nums.length;
-        if (u == n) {
+    /**
+     * add 函数添加到List，
+     * remove方法用Integer格式
+     */
+    public static void dfs(int u, boolean st[], int[] nums) {
+        if (u == nums.length) {
             res.add(new ArrayList<>(path));
         }
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < nums.length; i++) {
             if (!st[i]) {
                 path.add(nums[i]);
                 st[i] = true;
-                dfs(nums, u + 1, st);
+                dfs(u + 1, st, nums);
                 path.remove((Integer) nums[i]);
                 st[i] = false;
             }

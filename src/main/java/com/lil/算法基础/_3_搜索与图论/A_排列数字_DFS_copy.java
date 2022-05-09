@@ -17,7 +17,9 @@ public class A_排列数字_DFS_copy {
 
     public static void dfs(int u) {
         if (u == n) {
-            for (int i = 0; i < n; i++) System.out.print(path[i] + " ");
+            for (int i = 0; i < n; i++) {
+                System.out.print(path[i]);
+            }
             System.out.println();
         }
         for (int i = 1; i <= n; i++) {
