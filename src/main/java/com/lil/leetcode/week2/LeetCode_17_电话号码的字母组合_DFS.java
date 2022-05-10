@@ -16,15 +16,16 @@ public class LeetCode_17_电话号码的字母组合_DFS {
         dfs(digits, 0, "");
         return ans;
     }
-
     //u:digits的当前下标
     private static void dfs(String digits, int u, String path) {
-        if (u == digits.length()) ans.add(path);
-        else {
+        if (u == digits.length()) {
+            ans.add(path);
+        } else {
+            //当前数字符对应的字母串
             String str = strs[digits.charAt(u) - '0'];
             for (int i = 0; i < str.length(); i++) {
                 char c = str.charAt(i);
-                dfs(digits, u + 1, c + path);
+                dfs(digits, u + 1, path + c);
             }
         }
     }

@@ -3,31 +3,24 @@ package com.lil.leetcode.week3;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Lil
- * @date 2022/04/30 09:37
- **/
 public class LeetCode_46_全排列 {
-    static public List<List<Integer>> res = new ArrayList<>();
-    static public List<Integer> path = new ArrayList<>();
-
+    static List<List<Integer>> res = new ArrayList<>();
+    static List<Integer> path = new ArrayList<>();
     public static List<List<Integer>> permute(int[] nums) {
         boolean st[] = new boolean[nums.length];
-        dfs(nums, 0, st);
-        System.out.println(res);
+        dfs(0, path, nums, st);
+        System.out.print(res);
         return res;
     }
-
-    public static void dfs(int[] nums, int u, boolean[] st) {
-        int n = nums.length;
-        if (u == n) {
+    public static void dfs (int u, List<Integer> path, int nums[],boolean st[]) {
+        if (u == nums.length) {
             res.add(new ArrayList<>(path));
         }
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < nums.length; i ++) {
             if (!st[i]) {
                 path.add(nums[i]);
                 st[i] = true;
-                dfs(nums, u + 1, st);
+                dfs(u + 1, path, nums, st);
                 path.remove((Integer) nums[i]);
                 st[i] = false;
             }
@@ -35,7 +28,7 @@ public class LeetCode_46_全排列 {
     }
 
     public static void main(String[] args) {
-        int q[] = {1, 2, 3};
-        permute(q);
+        int nums[] = {1, 2, 3};
+        permute(nums);
     }
 }
