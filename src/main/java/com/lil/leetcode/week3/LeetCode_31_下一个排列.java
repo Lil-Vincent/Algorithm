@@ -9,38 +9,30 @@ package com.lil.leetcode.week3;
 // q[i - 1] > q[i]
 public class LeetCode_31_下一个排列 {
     public static void nextPermutation(int[] nums) {
+
         int n = nums.length - 1;
         int k = n;
-        if (nums == null || n == 0) return;
-        while (k - 1 >= 0 && nums[k - 1] >= nums[k]) k--;
+        while (k > 0 && nums[k - 1] >= nums[k]) k--;
         if (k == 0) {
             reverse(nums, 0, n);
-            return;
-        }
-        int r = n, l = k - 1;
-        while (nums[l] <= nums[r]) r--;
-        swap(nums, l, r);
-        reverse(nums, l + 1, n);
-    }
-
-    public static void swap(int nums[], int a, int b) {
-        int t = nums[a];
-        nums[a] = nums[b];
-        nums[b] = t;
-    }
-
-    public static void reverse(int nums[], int l, int r) {
-        // 原本是降序。换了之后也是降序
-        while (l < r) {
-            swap(nums, l, r);
-            r--;
-            l++;
+        } else {
+            int l = k - 1;
+            int r = k;
+            // 等于的情况下自己和自己交换，没有意义
+            // while (r <= n && nums[r] >= nums[l]) r++;
+            while (r <= n && nums[r] > nums[l]) r++;
+            swap(nums, l, r - 1);
+            reverse(nums, l + 1, nums.length - 1);
         }
     }
 
-    public static void main(String[] args) {
-        int[] q = {2, 3, 5, 4, 1};
-        nextPermutation(q);
+    public static void reverse(int[] nums, int l, int r) {
+        while (l < r) swap(nums, l++, r--);
     }
 
+    private static void swap(int[] q, int a, int b) {
+        int t = q[a];
+        q[a] = q[b];
+        q[b] = t;
+    }
 }
