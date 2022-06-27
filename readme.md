@@ -139,3 +139,9 @@ public class LeetCode_5_最长回文子串 {
 ---
 
 [LeetCode_31_下一个排列](https://www.acwing.com/solution/content/110616/)
+
+## n皇后问题
+
+1. 对于斜线上的判重复，把每一条斜线分为一类，总共包括正方向的 n 条和反方向的 n 条
+2. 具体表示哪一条斜线，需要通过坐标映射到数组中。通过在y轴上的k值来具体表示哪一条斜线，而k值为负的情况则需要通过偏移量处理
+   ![img.png](img.png)
