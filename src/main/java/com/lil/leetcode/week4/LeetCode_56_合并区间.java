@@ -41,7 +41,6 @@ public class LeetCode_56_合并区间 {
         int[][] a = {
                 {1, 3}, {9, 6}, {8, 10}, {15, 18}
         };
-        merge(a);
 
     }
 }
