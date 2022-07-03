@@ -9,9 +9,12 @@ public class test {
         int k = 10;
 //        k = k - 18;
         k -= 18;
-        
-        System.out.println(k);
-        System.out.println((5 - 2) + "");
+
+        int j = 0;
+        for (int i = 0; i < 3; i++) {
+            System.out.println(i);
+            j++;
+        }
     }
 
 }
