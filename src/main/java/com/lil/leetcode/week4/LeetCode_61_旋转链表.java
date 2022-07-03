@@ -38,9 +38,5 @@ public class LeetCode_61_旋转链表 {
         tail.next = null;
         return head;
     }
-
-    public static void main(String[] args) {
-        Integer[] a = {1, 2, 3, 4, 5, 7, 8, 9, 10};
-//        new ListNode<Integer>(a)
-    }
+    
 }
