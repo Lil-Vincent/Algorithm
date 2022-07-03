@@ -6,11 +6,11 @@ package com.lil.leetcode;
  **/
 public class test {
     public static void main(String[] args) {
-        boolean a = true;
-        if (a) {
-            
-        }
-        System.out.println(4 % 4);
+        int k = 10;
+//        k = k - 18;
+        k -= 18;
+        
+        System.out.println(k);
         System.out.println((5 - 2) + "");
     }
 
