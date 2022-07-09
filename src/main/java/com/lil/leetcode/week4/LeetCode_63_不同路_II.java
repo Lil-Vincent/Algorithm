@@ -1,5 +1,9 @@
 package com.lil.leetcode.week4;
 
+import sun.security.util.ArrayUtil;
+
+import static jdk.nashorn.internal.objects.NativeArray.reverse;
+
 /**
  * @author Lil
  * @date 2022/07/04 23:03
@@ -21,5 +25,9 @@ public class LeetCode_63_不同路_II {
             }
         }
         return f[n - 1][m - 1];
+    }
+
+    public static void main(String[] args) {
+        
     }
 }

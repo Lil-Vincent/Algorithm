@@ -1,4 +1,4 @@
-package com.lil.杂.fondation.week1;
+package com.lil.杂.fondation.A_算法基础;
 
 import java.util.Scanner;
 
@@ -8,12 +8,12 @@ import java.util.Scanner;
  */
 public class 快排 {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         int a[] = new int[n];
 
-        for(int i = 0; i < n; i ++) a[i] = in.nextInt();
+        for (int i = 0; i < n; i++) a[i] = in.nextInt();
 
         quickSort(a, 0, n - 1);
 
@@ -21,16 +21,16 @@ public class 快排 {
 
     }
 
-    public static void quickSort(int q[], int l, int r){
+    public static void quickSort(int q[], int l, int r) {
         if (r <= l) return;
 
         int i = l - 1, j = r + 1;
         int x = q[l + r >> 1];
 
-        while(i < j){
-            do i++; while(q[i] < x);
-            do j--; while(q[j] > x);
-            if (i < j){
+        while (i < j) {
+            do i++; while (q[i] < x);
+            do j--; while (q[j] > x);
+            if (i < j) {
                 int temp = q[i];
                 q[i] = q[j];
                 q[j] = temp;

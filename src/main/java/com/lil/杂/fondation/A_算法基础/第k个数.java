@@ -1,4 +1,4 @@
-package com.lil.杂.fondation.week1;
+package com.lil.杂.fondation.A_算法基础;
 
 import java.util.Scanner;
 
@@ -6,16 +6,16 @@ import java.util.Scanner;
  * @author Lil
  * @date 2021/4/26 22:31
  */
-public class 第k个数2 {
+public class 第k个数 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int k1 = sc.nextInt();
-        int k = n - k1 + 1;
+        int k = sc.nextInt();
         int[] q = new int[n];
-        for(int i = 0; i < n; i ++) q[i] = sc.nextInt();
-        System.out.println(quickSort(q, 0, n -1, k));
+        for (int i = 0; i < n; i++) q[i] = sc.nextInt();
+        System.out.println(quickSort(q, 0, n - 1, k));
     }
+
     public static int quickSort(int[] q, int l, int r, int k) {
         if (l >= r) return q[l];
         int i = l - 1, j = r + 1;
